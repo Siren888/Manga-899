@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manga-899 | อ่านนิยายฟรี</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: 'Sarabun', sans-serif;
+        background-color: #f4f4f4;
+        color: #222;
+      }header {
+    background-color: #2d2d2d;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+  }
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 1rem;
+    display: inline-block;
+  }
+
+  nav a:hover {
+    background-color: #666;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+
+  .post {
+    background-color: #fff;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+
+  .post h2 {
+    margin-top: 0;
+    color: #0077cc;
+  }
+
+  .post p {
+    line-height: 1.6;
+  }
+
+  footer {
+    background-color: #2d2d2d;
+    color: #aaa;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+</style>
+
+  </head>
+  <body>
+    <header>
+      <h1><a href="https://Siren888.github.io/Manga-899/" style="color: inherit; text-decoration: none;">Manga-899</a></h1>
+      <p>คลังนิยายออนไลน์ฟรี อัปเดตทุกวัน</p>
+    </header><nav>
+  <a href="https://Siren888.github.io/Manga-899/">หน้าแรก</a>
+  <a href="https://bit.ly/m/Kami-Completed">ตอนล่าสุด
+
